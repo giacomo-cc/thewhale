@@ -5,7 +5,7 @@ categories: solidity evm
 tags: solidity evm
 ---
 
-Solidity offers the possibility for developers to write pseudo-assembly in smart contract, this of course have huge impacts in terms of performance, gas costs and readibility. The dialect is called [yul](https://docs.soliditylang.org/en/v0.8.17/yul.html) and looks like this:
+Solidity offers the possibility for developers to write pseudo-assembly in ethereum smart contract, this of course have huge impacts in terms of performance, gas costs and readibility. The dialect is called [yul](https://docs.soliditylang.org/en/v0.8.17/yul.html) and looks like this:
 
 ```solidity
 function readWithYul() public view returns (uint256 data) {
