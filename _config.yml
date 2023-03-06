@@ -1,11 +1,10 @@
 title: the whale
 description: logbook of a tech journey
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://thegreat-vanderlinde.github.io/thewhale" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/"
+url: "https://thewhale.dev"
 twitter_username: vanderlinde____
 github_username: thegreat-vanderlinde
 
-# Build settings
 theme: minima
 plugins:
   - jekyll-feed
