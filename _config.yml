@@ -8,6 +8,3 @@ github_username: thegreat-vanderlinde
 theme: minima
 plugins:
   - jekyll-feed
-
-minima:
-  skin: dark
