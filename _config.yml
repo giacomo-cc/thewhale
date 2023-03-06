@@ -5,6 +5,8 @@ url: "https://thewhale.dev"
 twitter_username: vanderlinde____
 github_username: thegreat-vanderlinde
 
-theme: minima
+remote_theme: jekyll/minima
+minima:
+  skin: auto
 plugins:
   - jekyll-feed
