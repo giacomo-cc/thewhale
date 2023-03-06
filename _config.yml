@@ -10,4 +10,4 @@ plugins:
   - jekyll-feed
 
 minima:
-  skin: auto
+  skin: dark
