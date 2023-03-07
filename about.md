@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I write about distributed systems and blockchain.
+I like reading and writing about engineering, distributed systems and blockchain.
