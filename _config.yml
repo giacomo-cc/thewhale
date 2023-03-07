@@ -10,5 +10,7 @@ minima:
     - { platform: github, user_url: "https://github.com/thegreat-vanderlinde" }
     - { platform: twitter, user_url: "https://twitter.com/vanderlinde____" }
     - { platform: telegram, user_url: "https://t.me/mut_sol" }
+show_excerpts: true
+
 plugins:
   - jekyll-feed
